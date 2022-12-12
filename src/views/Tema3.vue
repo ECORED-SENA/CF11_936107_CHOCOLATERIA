@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 3
-      h1 Prueba sensorial en el Cacao y chocolate
+      h1 Prueba sensorial en el cacao y chocolate
     .bg13
       .row.justify-content-center.align-items-center.pt-5.mb-4          
         .col-lg-7.my-3
@@ -44,7 +44,7 @@
                 .list__item__icon
                   img(src='@/assets/curso/temas/v.svg', alt='')
               .list__txt
-                h3.mb-0.mt-1.bwn Prueba sensorial a Licor de cacao         
+                h3.mb-0.mt-1.bwn Prueba sensorial a licor de cacao         
         p(data-aos="fade-down") Recuerde que el #[b.bwn licor de cacao es la pasta proveniente del procesamiento de los granos de cacao previamente fermentados, secados, tostados y fracturados], trabajo que se realiza con molinos de piedra o por acción mecánica y calor que va transformando los trozos de cacao en una pasta de consistencia semisólida (ver tabla).    
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')
@@ -88,7 +88,9 @@
               tr.bgt1
                 td.px-5.text-bold.text-center 6. 
                 td.px-5 Registre los descriptores que identificó en el formato adjunto.
-
+              tr
+                td.px-5.text-bold.text-center 7. 
+                td.px-5 Enjuague la boca con agua para limpiarla, consuma una porción de galleta de soda para eliminar residuos de la muestra y proceda con la siguiente. 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-10.my-3
         p(data-aos="fade-down") El líder de panel también debe suministrar el formato bajo el cual se debe registrar el análisis, esto depende del tipo de prueba. Puede ser un formato sencillo o que contenga en lo posible toda la información requerida para que sea un ejercicio más completo.  A continuación, se puede observar dos tipos de formato, uno muy sencillo con información básica y una escala de medición del 0 a 5 y otro con requerimientos más específicos (ver tabla).  
@@ -107,7 +109,7 @@
             caption Nota. SENA (2022). 
             thead
               tr
-                th(colspan='7') Hoja de Cata
+                th(colspan='7') Hoja de cata
             tbody
               tr.bgt1.text-bold
                 td Atributos 
@@ -126,7 +128,7 @@
                 td   
                 td 
               tr
-                td Acido  
+                td Ácido  
                 td        
                 td      
                 td      
@@ -328,7 +330,7 @@
             .col-lg-7
               .p-2
                 h4.bwn(data-aos="fade-down") Importante… 
-                p(data-aos="fade-down").mb-0 Si se remite a los defectos de los bombones, se entiende la importancia de evitar cambios bruscos en la temperatura y la humedad con el fin de evitar el fat bloom o florecimiento de grasa, y el sugar bloom o florecimiento de azúcar, respectivamente que generan manchas blancas en la superficie y en el sugar bloom una textura porosa.      
+                p(data-aos="fade-down").mb-0 Si se remite a los defectos de los bombones, se entiende la importancia de evitar cambios bruscos en la temperatura y la humedad con el fin de evitar el <i>fat bloom</i> o florecimiento de grasa, y el <i>sugar bloom</i> o florecimiento de azúcar, respectivamente que generan manchas blancas en la superficie y en el <i>sugar bloom</i> una textura porosa.      
             .col-lg-5.img-e.p-0
               img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/54.png', alt='') 
 
@@ -336,7 +338,7 @@
         .col-auto
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
         .col  
-          p(data-aos="fade-down").mb-0 Media hora antes de ofrecerlo a los jueces, los bombones deben estar a temperatura ambiente (si la temperatura no es extremadamente caliente), unas de las recomendaciones para la cata es poner el bombón en la boca (se recomienda que el tamaño de un bombom sea de un bocado) y dejar que se funda gracias a la temperatura oral (temperatura interna de la boca), este es el tiempo en el que el juez empieza a percibir y registrar todos los atributos de textura y sabor.                       
+          p(data-aos="fade-down").mb-0 Media hora antes de ofrecerlo a los jueces, los bombones deben estar a temperatura ambiente (si la temperatura no es extremadamente caliente), unas de las recomendaciones para la cata es poner el bombón en la boca (se recomienda que el tamaño de un bombón sea de un bocado) y dejar que se funda gracias a la temperatura oral (temperatura interna de la boca), este es el tiempo en el que el juez empieza a percibir y registrar todos los atributos de textura y sabor.                       
 </template>
 
 <script>

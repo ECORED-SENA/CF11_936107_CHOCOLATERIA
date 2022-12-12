@@ -11,7 +11,7 @@
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='')     
       .col-lg-7.my-3
-        p(data-aos="fade-down") El #[b.bwn sabor propio del cacao y sus notas especiales se obtienen desde el proceso de cultivo], ya que influyen: #[b.bwn el clima, las propiedades del suelo, las propiedades del material fitogenético sembrado y los llamados clones]; posteriormente #[b.bwn estas características se afianzan o se destruyen con el proceso de post cosecha], ya sea realizado adecuadamente o no. 
+        p(data-aos="fade-down") El #[b.bwn sabor propio del cacao y sus notas especiales se obtienen desde el proceso de cultivo], ya que influyen: #[b.bwn el clima, las propiedades del suelo, las propiedades del material fitogenético sembrado y los llamados clones]; posteriormente #[b.bwn estas características se afianzan o se destruyen con el proceso de postcosecha], ya sea realizado adecuadamente o no. 
 
         p(data-aos="fade-down") En la #[b.bwn postcosecha], específicamente #[b.bwn en la fermentación y secado, se producen los sabores y aromas característicos del cacao al desarrollarse precursores químicos en la torrefacción o tostado.]  
 
@@ -63,7 +63,7 @@
                 .col-lg-5
                   img.img-a.img-t(src='@/assets/curso/temas/39.png', alt='')              
                 .col-lg-6.mb-4.mb-md-0
-                  h4.mb-4 #[b.bwn 2-metilpropanal, 2-metilbutanal y 3 metilbutanal]
+                  h4.mb-4 #[b.bwn 2 Metilpropanal, 2 metilbutanal y 3 metilbutanal]
                   p Son aldehídos de los azúcares y son los encargados de desarrollar #[b el sabor y el aroma].  
             .row.justify-content-center.align-items-center.mt-4
                 .col-lg-5
@@ -76,14 +76,14 @@
                 .col-lg-5
                   img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='')              
                 .col-lg-6.mb-4.mb-md-0
-                  h4.mb-4 #[b.bwn 2-methylbutanal y 2-methypropanal]
+                  h4.mb-4 #[b.bwn 2 Methylbutanal y 2 methypropanal]
                   p Son aldehídos y aportan el #[b aroma a frutos y flores].  
             .row.justify-content-center.align-items-center.mt-4
                 .col-lg-5
                   img.img-a.img-t(src='@/assets/curso/temas/42.png', alt='')              
                 .col-lg-6.mb-4.mb-md-0
                   h4.mb-4 #[b.bwn Vitaminas, tales como:]
-                  p Vitamina E, C, Beta carotenos y polifenoles
+                  p Vitamina E, C, betacarotenos y polifenoles
                   p Están presentes en el #[b fruto y en el licor de cacao], son de especial interés a nivel #[b nutricional y farmacéutico].  
             .row.justify-content-center.align-items-center.mt-4
                 .col-lg-5

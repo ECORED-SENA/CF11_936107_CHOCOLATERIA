@@ -65,7 +65,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Prueba sensorial en el Cacao y chocolate',
+        titulo: 'Prueba sensorial en el cacao y chocolate',
         desarrolloContenidos: true,
       },
       {
@@ -160,7 +160,7 @@ export default {
         'En análisis sensorial se refiere a la agrupación de descriptores que comparten características.',
     },
     {
-      termino: 'Gráfica Radial',
+      termino: 'Gráfica radial',
       significado:
         'En análisis sensorial es la gráfica que permite presentar visualmente los datos de una muestra en cuanto a dos tipos de variables, descriptores e intensidad. Es muy usada para pruebas descriptivas con el fin de comparar dos o más productos.',
     },
@@ -270,7 +270,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'SOFIA SUAREZ SUAREZ',
+        nombre: 'Sofia Suarez Suarez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -330,7 +330,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Eugenia Mejia Lopez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

@@ -108,52 +108,24 @@
       .col-lg-5.up 
         img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/13.png', alt='')   
 
-    .bg6
-      .row.justify-content-center.align-items-center          
-        .col-lg-10.py-4
-          SlyderA(tipo="b").bgw.p-4.brad
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/15.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Completamente fermentados]
-                  p Tiene como característica principal su color marrón.  
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/16.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Fermentados parcialmente]
-                  p Cuando su fermentación es parcial, su color es también marrón, pero este marrón es claro. 
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/17.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Muy fermentado]
-                  p Cuando su fermentación ya se encuentra en la etapa de pudrición, su color es marrón oscuro y su sabor es amargo, este grano no sirve para transformarlo. 
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/18.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Color morado o violeta]
-                  p Cuando el grano tiene color violeta, es un indicador de que su proceso de fermentado no ha llegado a su final, por ende, su sabor de amargura es fuerte y todavía no ha generado aroma. 
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/19.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Mohoso]
-                  p La causa principal de que un grano presente moho es porque fue almacenado en un sitio con mucha humedad y en su proceso de secado el calor no fue constante, su apariencia es característica por ser visible el moho y su sabor es amargo. 
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Color gris]
-                  p Cuando presenta este color, el grano es compacto, no presenta grietas en su contextura y se puede afirmar que en su proceso de fermentación no se identificaron defectos. 
-            .row.justify-content-center.align-items-start
-                .col-lg-5
-                  img.img-a.img-t(src='@/assets/curso/temas/21.png', alt='')              
-                .col-lg-6.mb-4.mb-md-0.mt-5
-                  h4.mb-4 #[b.bwn Dañado por contacto animal]
-                  p El grano presenta perforaciones causadas por insectos o animales roedores.
+    .row.justify-content-center.align-items-start      
+      .col-lg-10(data-aos="fade-right")
+        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg17")
+          .row.justify-content-center.align-items-start(titulo="Juez experto")
+            .col-lg-4
+              img.img-a.img-t(src='@/assets/curso/temas/66.png', alt='')
+            .col-lg-8
+              p Son aquellos que toman esta ciencia como una profesión, suelen trabajar solo y especializarse en un tipo de alimentos. 
+          .row.justify-content-center.align-items-start(titulo="Juez experto")
+            .col-lg-4
+              img.img-a.img-t(src='@/assets/curso/temas/67.png', alt='')
+            .col-lg-8
+              p Son aquellos que hacen parte de un panel de una empresa interesada en realizar análisis particulares o para sus propios productos. Reciben capacitación continua por parte de la empresa. 
+          .row.justify-content-center.align-items-start(titulo="Jueces semi-entrenados")
+            .col-lg-4
+              img.img-a.img-t(src='@/assets/curso/temas/68.png', alt='')
+            .col-lg-8
+              p Personas con un grado de capacitación las cuales son llamadas para ciertas pruebas en las que se requiere un mayor conocimiento que la de simplemente preferencias de consumidores normales.                            
 
     p(data-aos="fade-down").mb-5.pt-5 Los miembros del panel requieren la disciplina en su proceso de formación, sin embargo, estos los jueces, deben tener habilidades y hábitos saludables, como los que se presentan en la siguiente tabla:        
     .row.justify-content-center.align-items-center.mb-3           
@@ -233,7 +205,7 @@
             p.mb-0 El trabajo en equipo. 
           li 
             i.fas.fa-check.colorv
-            p.mb-0 El trabajo en equipo. 
+            p.mb-0 La capacidad de instrucciones dadas por el líder.
           li 
             i.fas.fa-check.colorv
             p.mb-0 La capacidad de disciplina y orden a la hora de realizar pruebas. 
