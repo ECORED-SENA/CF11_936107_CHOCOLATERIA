@@ -116,7 +116,7 @@
               img.img-a.img-t(src='@/assets/curso/temas/66.png', alt='')
             .col-lg-8
               p Son aquellos que toman esta ciencia como una profesión, suelen trabajar solo y especializarse en un tipo de alimentos. 
-          .row.justify-content-center.align-items-start(titulo="Juez experto")
+          .row.justify-content-center.align-items-start(titulo="Jueces entrenados")
             .col-lg-4
               img.img-a.img-t(src='@/assets/curso/temas/67.png', alt='')
             .col-lg-8
@@ -251,7 +251,7 @@
             .col-lg-7
               .p-2
                 h4.bwn(data-aos="fade-down") Importante… 
-                p(data-aos="fade-down").mb-0 Recuerde que como ciencia el análisis sensorial debe ser verificable y cuantificable por eso la importancia de llevar los registros destinados para cada prueba y realizar los análisis estadísticos entre otros.      
+                p(data-aos="fade-down").mb-0 Recuerde que como ciencia el análisis sensorial debe ser verificable y cuantificable, por eso la importancia de llevar los registros destinados para cada prueba y realizar los análisis estadísticos, entre otros.      
             .col-lg-5.img-e.p-0
               img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='') 
 

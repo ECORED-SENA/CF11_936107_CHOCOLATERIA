@@ -45,7 +45,7 @@
                   img(src='@/assets/curso/temas/v.svg', alt='')
               .list__txt
                 h3.mb-0.mt-1.bwn Prueba sensorial a licor de cacao         
-        p(data-aos="fade-down") Recuerde que el #[b.bwn licor de cacao es la pasta proveniente del procesamiento de los granos de cacao previamente fermentados, secados, tostados y fracturados], trabajo que se realiza con molinos de piedra o por acción mecánica y calor que va transformando los trozos de cacao en una pasta de consistencia semisólida (ver tabla).    
+        p(data-aos="fade-down") Recuerde que el #[b.bwn licor de cacao es la pasta proveniente del procesamiento de los granos de cacao previamente fermentados, secados, tostados y fracturados], trabajo que se realiza con molinos de piedra o por acción mecánica y calor que va transformando los trozos de cacao en una pasta de consistencia semisólida (ver tabla 3).    
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')
   
@@ -93,7 +93,7 @@
                 td.px-5 Enjuague la boca con agua para limpiarla, consuma una porción de galleta de soda para eliminar residuos de la muestra y proceda con la siguiente. 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-10.my-3
-        p(data-aos="fade-down") El líder de panel también debe suministrar el formato bajo el cual se debe registrar el análisis, esto depende del tipo de prueba. Puede ser un formato sencillo o que contenga en lo posible toda la información requerida para que sea un ejercicio más completo.  A continuación, se puede observar dos tipos de formato, uno muy sencillo con información básica y una escala de medición del 0 a 5 y otro con requerimientos más específicos (ver tabla).  
+        p(data-aos="fade-down") El líder de panel también debe suministrar el formato bajo el cual se debe registrar el análisis, esto depende del tipo de prueba. Puede ser un formato sencillo o que contenga en lo posible toda la información requerida para que sea un ejercicio más completo.  A continuación, se puede observar dos tipos de formato, uno muy sencillo con información básica y una escala de medición del 0 a 5 y otro con requerimientos más específicos (ver tabla 4).  
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.png', alt='') 
 

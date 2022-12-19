@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 4
-      h1 Resultados interpretación y gráficas radial (de araña)
+      h1 Resultados, interpretación y gráficas radial (de araña)
     .bg15
       p(data-aos="fade-down").mb-5.text-center.pt-5 Un elemento importante en el proceso es sacar resultados e interpretarlos, por lo que se invita a ver el siguiente video: 
       .row.justify-content-center.align-items-center.mb-5           

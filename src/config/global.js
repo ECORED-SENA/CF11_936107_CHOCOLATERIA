@@ -72,7 +72,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Resultados interpretación y gráficas radial (de araña)',
+        titulo: 'Resultados, interpretación y gráficas radial (de araña)',
         desarrolloContenidos: true,
       },
     ],
